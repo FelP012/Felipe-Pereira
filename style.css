@@ -1,0 +1,23 @@
+#titulo{
+    text-align: center;
+}
+header{
+    padding: 10px;
+}
+nav{
+    text-align: center;
+}
+#me{
+    height: 150px;
+    width: 150px;
+}
+#obat{
+    height: 300px;
+}
+#pad{
+    padding: 15px;
+    text-justify: justify;
+}
+#paddy{
+    padding: 15px;
+}
